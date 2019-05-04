@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.8.2)
+  - APESuperHUD (2.0.1)
+  - ReachabilitySwift (3)
+  - XCDYouTubeKit (2.7.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - APESuperHUD (from `https://github.com/apegroup/APESuperHUD.git`)
+  - ReachabilitySwift (~> 3)
+  - XCDYouTubeKit (~> 2.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ReachabilitySwift
+    - XCDYouTubeKit
+
+EXTERNAL SOURCES:
+  APESuperHUD:
+    :git: https://github.com/apegroup/APESuperHUD.git
+
+CHECKOUT OPTIONS:
+  APESuperHUD:
+    :commit: 0a7aecdf9d00094824b68d2f15e0f277ea3b767b
+    :git: https://github.com/apegroup/APESuperHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  APESuperHUD: 18ce2f9f114dd38d8fef5a6831e71ae9634cfc26
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  XCDYouTubeKit: 3f4fd3eb3ed494a46a8f007b91315eed6dd6df1f
+
+PODFILE CHECKSUM: c23e70099ddee9333a0f45c319a2dcd54d82d033
+
+COCOAPODS: 1.5.3
